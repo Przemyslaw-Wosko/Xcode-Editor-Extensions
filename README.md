@@ -12,52 +12,7 @@ You are free to request adding new new extensions with more than 10 stars or exc
 
 ##Code editor
 
-# [xTextHandler](https://github.com/cyanzhong/xTextHandler) - this tool allows you to: 
-
-## xEncode
-![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler/master/GIFs/xEncode.gif)
-- Base64 Encode
-- Base64 Decode
-- URL Encode
-- URL Decode
-- Upper Case
-- Lower Case
-- Escape
-- MD5
-- SHA1
-- SHA256
-- QR Code
-
-## xRadix
-![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler/master/GIFs/xRadix.gif)
-- Hex
-- Bin
-- Oct
-- Dec
-
-## xColor
-![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler/master/GIFs/xColor.gif)
-- Hex
-- RGB
-- Preview
-
-## xSearch
-![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler/master/GIFs/xSearch.gif)
-- Google
-- Translate
-- Developer
-- StackOverflow
-- GitHub
-- Dash
-- Dictionary
-
-## xFormat
-![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler/master/GIFs/xFormat.gif)
-- JSON
-- XML
-- CSS
-- SQL
-
+-  [xTextHandler](https://github.com/cyanzhong/xTextHandler) - handy tool for converting number systems, encoding/ decoding and formatting JSON, SQL, CSS, XML
 
 ##Interface Builder 
 
