@@ -16,9 +16,5 @@ You are free to request adding new new extensions with more than 10 stars or exc
 
 ##Interface Builder 
 
-
-##Project managing 
-
-
 ##Testing
 
